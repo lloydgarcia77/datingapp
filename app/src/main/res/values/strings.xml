@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatingApp</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="dating_app_title">Dating APP</string>
+    <string name="find_your_match">Find Your MaTCH</string>
+    <string name="datingapplogo">datingAppLogo</string>
+</resources>
